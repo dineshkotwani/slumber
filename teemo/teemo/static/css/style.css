@@ -1,0 +1,46 @@
+.content{
+	margin-left: 1.25em;
+	min-height: 40em;
+}
+.empmenu{
+	
+}
+.footer{
+	text-align: center;
+}
+.ribut{
+	text-align: right;
+}
+.border{
+	border: 1px solid;
+	border-color: grey;
+}
+.boarditem{
+	min-height: 5em;
+	/*max-height: 15em;*/
+	/*overflow: hidden;*/
+	padding:0.25em;
+	/*margin:1em;*/
+	background-color: white;	
+}
+.boardcontent{
+	line-height: 1.5em;
+
+}
+.clockinlist{
+	text-align: center;
+}
+.clockinlist > thead > tr > th{
+	text-align: center;
+}
+.signup{
+	padding: 1em;
+	margin: 1em;
+}
+.search-for-company{
+	margin-bottom: 1em;
+	margin-right: 1em;
+}
+.tac{
+	margin-top: 1em;
+}
